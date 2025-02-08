@@ -1,0 +1,160 @@
+@font-face {
+    font-family: 'Jenssen';
+    src: url('web/Jenssen-ExtraLight.woff2') format('woff2'),
+        url('web/Jenssen-ExtraLight.woff') format('woff'),
+        url('ttf/Jenssen-ExtraLight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Jenssen';
+    src: url('web/Jenssen-ExtraLightItalic.woff2') format('woff2'),
+        url('web/Jenssen-ExtraLightItalic.woff') format('woff'),
+        url('ttf/Jenssen-ExtraLightItalic.ttf') format('truetype');
+    font-weight: 200;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Jenssen';
+    src: url('web/Jenssen-Light.woff2') format('woff2'),
+        url('web/Jenssen-Light.woff') format('woff'),
+        url('ttf/Jenssen-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Jenssen';
+    src: url('web/Jenssen-LightItalic.woff2') format('woff2'),
+        url('web/Jenssen-LightItalic.woff') format('woff'),
+        url('ttf/Jenssen-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Jenssen';
+    src: url('web/Jenssen-Regular.woff2') format('woff2'),
+        url('web/Jenssen-Regular.woff') format('woff'),
+        url('ttf/Jenssen-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Jenssen';
+    src: url('web/Jenssen-Italic.woff2') format('woff2'),
+        url('web/Jenssen-Italic.woff') format('woff'),
+        url('ttf/Jenssen-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Jenssen';
+    src: url('web/Jenssen-Medium.woff2') format('woff2'),
+        url('web/Jenssen-Medium.woff') format('woff'),
+        url('ttf/Jenssen-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: 'Jenssen';
+    src: url('web/Jenssen-MediumItalic.woff2') format('woff2'),
+        url('web/Jenssen-MediumItalic.woff') format('woff'),
+        url('ttf/Jenssen-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Jenssen';
+    src: url('web/Jenssen-SemiBold.woff2') format('woff2'),
+        url('web/Jenssen-SemiBold.woff') format('woff'),
+        url('ttf/Jenssen-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Jenssen';
+    src: url('web/Jenssen-SemiBoldItalic.woff2') format('woff2'),
+        url('web/Jenssen-SemiBoldItalic.woff') format('woff'),
+        url('ttf/Jenssen-SemiBoldItalic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Jenssen';
+    src: url('web/Jenssen-Bold.woff2') format('woff2'),
+        url('web/Jenssen-Bold.woff') format('woff'),
+        url('ttf/Jenssen-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Jenssen';
+    src: url('web/Jenssen-BoldItalic.woff2') format('woff2'),
+        url('web/Jenssen-BoldItalic.woff') format('woff'),
+        url('ttf/Jenssen-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Jenssen';
+    src: url('web/Jenssen-ExtraBold.woff2') format('woff2'),
+        url('web/Jenssen-ExtraBold.woff') format('woff'),
+        url('ttf/Jenssen-ExtraBold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Jenssen';
+    src: url('web/Jenssen-ExtraBoldItalic.woff2') format('woff2'),
+        url('web/Jenssen-ExtraBoldItalic.woff') format('woff'),
+        url('ttf/Jenssen-ExtraBoldItalic.ttf') format('truetype');
+    font-weight: 800;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Jenssen';
+    src: url('web/Jenssen-Black.woff2') format('woff2'),
+        url('web/Jenssen-Black.woff') format('woff'),
+        url('ttf/Jenssen-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Jenssen';
+    src: url('web/Jenssen-BlackItalic.woff2') format('woff2'),
+        url('web/Jenssen-BlackItalic.woff') format('woff'),
+        url('ttf/Jenssen-BlackItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
