@@ -3,19 +3,6 @@ from fontTools.ttLib import TTFont
 '''Generate WOFF from TTF or OTF font.'''
 
 
-srcPath  = './ttf/Jenssen-ExtraLight.ttf'
-woffPath = './web/Jenssen-ExtraLight.woff'
-
-with TTFont(srcPath) as font:
-    font.flavor = 'woff'
-    font.save(woffPath)
-
-srcPath  = './ttf/Jenssen-ExtraLightItalic.ttf'
-woffPath = './web/Jenssen-ExtraLightItalic.woff'
-
-with TTFont(srcPath) as font:
-    font.flavor = 'woff'
-    font.save(woffPath)
     
 srcPath  = './ttf/Jenssen-Light.ttf'
 woffPath = './web/Jenssen-Light.woff'
@@ -157,20 +144,6 @@ with TTFont(srcPath) as font:
 '''Generate WOFF2 from TTF or OTF font.'''
 
 
-srcPath  = './ttf/Jenssen-ExtraLight.ttf'
-woff2Path = './web/Jenssen-ExtraLight.woff2'
-
-with TTFont(srcPath) as font:
-    font.flavor = 'woff2'
-    font.save(woff2Path)
-
-srcPath  = './ttf/Jenssen-ExtraLightItalic.ttf'
-woff2Path = './web/Jenssen-ExtraLightItalic.woff2'
-
-with TTFont(srcPath) as font:
-    font.flavor = 'woff2'
-    font.save(woff2Path)
-    
 srcPath  = './ttf/Jenssen-Light.ttf'
 woff2Path = './web/Jenssen-Light.woff2'
 
